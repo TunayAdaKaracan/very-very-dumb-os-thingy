@@ -1,0 +1,8 @@
+{
+  "shortcut-name": "The Test App",
+  "assets-folder": "assets/",
+  "shortcut-icon-name": "icon.png",
+  "main-file": "app.py",
+  "version": "1.0.0",
+  "author": "Arctic"
+}
